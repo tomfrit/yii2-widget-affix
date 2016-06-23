@@ -25,9 +25,9 @@
             $body.scrollspy('refresh')
         })
 
-        $('.kv-sidebar [href="#"]').click(function (e) {
-            e.preventDefault()
-        })
+        //$('.kv-sidebar [href="#"]').click(function (e) {
+        //    e.preventDefault()
+        //})
 
         // back to top
         setTimeout(function () {
