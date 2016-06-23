@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-widget-affix",
+    "name": "tomfrit-v/yii2-widget-affix",
     "description": "A scrollspy and affixed enhanced navigation to highlight page sections (sub repo split from yii2-widgets)",
     "keywords": ["yii2", "extension", "widget", "affix", "navigation", "scrollspy", "bootstrap", "jquery", "plugin"],
     "homepage": "https://github.com/kartik-v/yii2-widget-affix",
@@ -10,6 +10,11 @@
             "name": "Kartik Visweswaran",
             "email": "kartikv2@gmail.com",
             "homepage": "http://www.krajee.com/"
+        },
+        {
+            "name": "Thomas Fritscher",
+            "email": "thomas@enizehates.de",
+            "homepage": "http://enizehates.de"
         }
     ],
 	"minimum-stability": "dev",
